@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Quest Innovation
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Full-Stack Developer, working with PHP, CodeIgniter, JavaScript, jQuery, AnularJS, HTML, CSS, Bootstrap etc. ...
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: May. 2017
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Full-Stack Web Developer
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Freelancing
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Worked with Unity and C# to build game prototypes, 3D modeling using Cinema 4D & Zbrush, Video Editing and VFX using AfterFX and Sony Vegas Pro etc.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Jan. 2014
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: VFX Artist, 3D Modeler, Game Developer
     i18n: company_b_job
   icon: fa-plus-square
