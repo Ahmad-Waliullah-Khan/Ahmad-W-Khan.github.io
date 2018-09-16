@@ -12,8 +12,8 @@ img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Oli  # Be used at blog posts' author.
-  first_name: Khan  # Be used at index page about me section.
-  last_name: Ahmad W   # Be used at index page about me section.
+  first_name: Ahmad W  # Be used at index page about me section.
+  last_name: Khan # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: Krazy4Sunshin3  # Leave blank if you don't have now
   linkedin_id: crazy4sunshine # Leave blank if you don't have now
