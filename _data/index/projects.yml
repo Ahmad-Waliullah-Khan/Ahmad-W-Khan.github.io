@@ -1,22 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Blog App
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  gh_user: krazy4sunshin3
+  repo: laravel-blog-1
+  img: /static/assets/img/landing/blog_app_icon.png
+  desc: A fully CRUD base blog app built from scratch using Laravel-PHP.
 
-- name: Python
+- name: To-do list app
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  gh_user: krazy4sunshin3
+  repo: CodeIgniter-Todo-App
+  img: /static/assets/img/landing/todo_app_icon.png
+  desc: An SPA like Ajax based, RESTful Todo-list App, built using CodeIgntiter and JavaScript.
 
-- name: Google
+- name: Quote of the Day App
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  url: http://oli.net.in/amubi
+  img: /static/assets/img/landing/qod_icon.png
+  desc: A small hobby project built on a weekend evening for my bae :)
