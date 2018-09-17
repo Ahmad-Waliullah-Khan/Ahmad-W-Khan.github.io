@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
+- last_name: Amubi
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: An app to generate random inspirational quotes
+  website: http://oli.net.in/amubi/
+  # email: oli@oli.net.in
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Facebook
+  first_name: 
+  desc: https://www.facebook.com/crazy4sunshine
+  website: https://www.facebook.com/crazy4sunshine
+  # email: oli@oli.net.in
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: YouTube
+  first_name: 
+  desc: https://www.youtube.com/user/crazy4sunshine786
+  website: https://www.youtube.com/user/crazy4sunshine786
+  # email: oli@oli.net.in
