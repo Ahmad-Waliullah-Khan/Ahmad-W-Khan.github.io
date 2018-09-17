@@ -6,7 +6,7 @@
   gh_user: krazy4sunshin3
   repo: laravel-blog-1
   img: /static/assets/img/landing/blog_app_icon.png
-  desc: A fully CRUD base blog app built from scratch using Laravel-PHP.
+  desc: A fully CRUD based blog app, built from scratch using Laravel-PHP.
 
 - name: To-do list app
   i18n: cpython
