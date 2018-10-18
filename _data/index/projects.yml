@@ -10,7 +10,7 @@
 
 - name: WebGL Game
   i18n: google
-  url: http://oli.net.in/webgl-game-by-oli
+  url: http://ahmdwkhan.com/webgl-game-by-oli
   img: /static/assets/img/landing/game_controller.png
   desc: A WebGL experimental game, made over a weekend as a birthday gift.
 
@@ -30,6 +30,14 @@
 
 - name: Quote of the Day App
   i18n: google
-  url: http://oli.net.in/qod
+  url: http://ahmdwkhan.com/qod
   img: /static/assets/img/landing/qod_icon.png
-  desc: A small hobby project built on a weekend evening for my bae :)
+  desc: A small hobby project built on a weekend evening for a special person :)
+
+  - name: Birthday Card
+    i18n: google
+    url: http://ahmdwkhan.com/amubi
+    img: /static/assets/img/landing/birthday.png
+    desc: A birthday wish site, built for a close friend
+
+
