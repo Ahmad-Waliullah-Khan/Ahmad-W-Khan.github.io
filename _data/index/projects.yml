@@ -34,10 +34,10 @@
   img: /static/assets/img/landing/qod_icon.png
   desc: A small hobby project built on a weekend evening for a special person :)
 
-  - name: Birthday Card
-    i18n: google
-    url: http://ahmdwkhan.com/amubi
-    img: /static/assets/img/landing/birthday.png
-    desc: A birthday wish site, built for a close friend
+- name: Birthday Card
+  i18n: google
+  url: http://ahmdwkhan.com/amubi
+  img: /static/assets/img/landing/birthday.png
+  desc: A birthday wish site, built for a close friend
 
 
