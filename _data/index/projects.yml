@@ -5,7 +5,7 @@
   i18n: cpython
   gh_user: krazy4sunshin3
   repo: django-inventory-management-app
-  img: /static/assets/img/landing/todo_app_icon.png
+  img: /static/assets/img/landing/inventory-django.png
   desc: An Inventory Management Web Application, buit using Django Framework of Python.
 
 - name: WebGL Game
