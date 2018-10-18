@@ -1,10 +1,23 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Blog App
+- name: Python-Django based Inventory App
+  i18n: cpython
+  gh_user: krazy4sunshin3
+  repo: django-inventory-management-app
+  img: /static/assets/img/landing/todo_app_icon.png
+  desc: An Inventory Management Web Application, buit using Django Framework of Python.
+
+- name: WebGL Game
+  i18n: google
+  url: http://oli.net.in/webgl-game-by-oli
+  img: /static/assets/img/landing/game_controller.png
+  desc: A WebGL experimental game, made over a weekend as a birthday gift.
+
+- name: Advance CMS/Blog App
   i18n: jalpc
   gh_user: krazy4sunshin3
-  repo: laravel-blog-1
+  repo: advance-laravel-cms-blog
   img: /static/assets/img/landing/blog_app_icon.png
   desc: A fully CRUD based blog app, built from scratch using Laravel-PHP.
 
@@ -17,6 +30,6 @@
 
 - name: Quote of the Day App
   i18n: google
-  url: http://oli.net.in/amubi
+  url: http://oli.net.in/qod
   img: /static/assets/img/landing/qod_icon.png
   desc: A small hobby project built on a weekend evening for my bae :)
