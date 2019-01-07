@@ -14,6 +14,12 @@
   img: /static/assets/img/landing/game_controller.png
   desc: A WebGL experimental game, made over a weekend as a birthday gift.
 
+- name: Car Inventory App
+  i18n: google
+  url: http://carinventory.epizy.com/
+  img: /static/assets/img/landing/Car-icon.png
+  desc: A mini personal car inventory web application made using custom MVC framework built on top of Core PHP. It follows OOP MVC PHP, Ajax Based Form submission, Bootstrap, JavaScript DataTables, and a custom built MVC frameworok.
+
 - name: Advance CMS/Blog App
   i18n: jalpc
   gh_user: krazy4sunshin3
