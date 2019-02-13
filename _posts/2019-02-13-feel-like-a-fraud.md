@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Feel like a fraud ?"
-date:   2019-02-13
+date:   2019-02-13 (reading time : 3 minutes 29 seconds)
 desc: "A look at Imposter Syndrome and how to cope with it."
 keywords: "Imposter Syndrome,Fraud,Low slef confidence,website,blog,code, 2019, doubt, self doubt, "
 categories: [Life]
@@ -24,11 +24,13 @@ More than 50% of people in tech industry suffer from Imposter Syndrome. For some
 > contingent on achieving."
 
 
+
 **What is Imposter Syndrome ?**
 
 Imposter syndrome or more accurately called "imposter phenomenon", is a term coined in the late 1970s by psychologists Pauline Rose Clance and Suzanne Imes. People with Imposter Syndrome always feel like they are faking it. They feel like an intellectual and professional fraud. They don’t think they deserve the things that they have achieved. Even if someone does point out that things are good for them, they will most probably credit it to luck or other such phenomenon. They will constantly magnify their negatives and minimize their positive achievements. In a way, they are their worst critic. This can lead to difficulty in developing a realistic self-image.
 
 People with Imposter Syndrome are constantly worried that they might not live upto other’s expectations. This may lead them to either work extra hard or not try at all so that they will have an excuse if they fail. They are always worried about being found out. Or being revealed as a “fraud”. This prevents them to reach their potential, and most of the times, hampers their career and mental health.
+
 
 
 **What causes it ?**
@@ -42,6 +44,7 @@ Even though several factors can cause imposter syndrome, some of the things that
 - Being tagged as the “smart kid” : People who have been told in their childhood that they are better than other kids in term of intelligence or other factors might develop imposter syndrome when they face the struggles and realities of life inevitably. 	
 
 
+
 **How to deal with it ?**
 
 Some of the things that can help someone overcome imposter syndrome are : 
@@ -51,6 +54,7 @@ Some of the things that can help someone overcome imposter syndrome are :
 - Keep track of your achievement : People with imposter syndrome tend to minimize and even forget their achievements. It can be reassuring to see their achievements written down in paper. That can help them feel positive about their success as it provides proof of their contribution and achievements. 	
 
 - Accept the reality : Human beings are flawed. There is no such thing as perfection. Accepting the fact that no one is perfect and that challenges and struggles are inevitable in life can lead one to be happy, content and at ease with one’s life.
+
 
 
 **Conclusion :**
