@@ -11,7 +11,7 @@ icon: icon-html
 *Reading time : **3 minutes 29 seconds***
 <!-- todo : make image responsive without a jelyll plugin  -->
 <!-- ![alt text](/static/assets/img/blog/imposter/imposter_syndrome_boy.jpg "Imposter Syndrome Banner") -->
-
+***
 You have been there. You know the feeling. That moment when you are panicking, knowing that  everyone will accuse you saying, “You fake! What are you doing here?”. As alone and scared you might feel, it is not that uncommon for one to experience such feeling at least once in their lifetime.
 
 More than 50% of people in tech industry suffer from Imposter Syndrome. For some, it can be short lasting, one time experience, like joining a new job, a career switch or a new promotion. But, for others, this feeling may follow them around for most of their adult lives.
