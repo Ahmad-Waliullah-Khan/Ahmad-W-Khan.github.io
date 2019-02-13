@@ -9,7 +9,9 @@ tags: [Imposter Syndrome, self-development, self-help]
 icon: icon-html
 ---
 
-![alt text](/static/assets/img/blog/imposter/imposter_syndrome_boy.jpg "Imposter Syndrome Banner")
+<!-- todo : make image responsive without a jelyll plugin  -->
+<!-- ![alt text](/static/assets/img/blog/imposter/imposter_syndrome_boy.jpg "Imposter Syndrome Banner") -->
+
 
 You have been there. You know the feeling. That moment when you are panicking, knowing that  everyone will accuse you saying, “You fake! What are you doing here?”. As alone and scared you might feel, it is not that uncommon for one to experience such feeling at least once in their lifetime.
 
