@@ -1,17 +1,16 @@
 ---
 layout: post
 title:  "Feel like a fraud ?"
-date:   2019-02-13 (reading time : 3 minutes 29 seconds)
+date:   2019-02-13
 desc: "A look at Imposter Syndrome and how to cope with it."
 keywords: "Imposter Syndrome,Fraud,Low slef confidence,website,blog,code, 2019, doubt, self doubt, "
 categories: [Life]
 tags: [Imposter Syndrome, self-development, self-help]
 icon: icon-html
 ---
-
+*Reading time : **3 minutes 29 seconds***
 <!-- todo : make image responsive without a jelyll plugin  -->
 <!-- ![alt text](/static/assets/img/blog/imposter/imposter_syndrome_boy.jpg "Imposter Syndrome Banner") -->
-
 
 You have been there. You know the feeling. That moment when you are panicking, knowing that  everyone will accuse you saying, “You fake! What are you doing here?”. As alone and scared you might feel, it is not that uncommon for one to experience such feeling at least once in their lifetime.
 
