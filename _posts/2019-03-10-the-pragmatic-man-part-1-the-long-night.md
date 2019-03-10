@@ -54,9 +54,9 @@ _“How could I be so reckless”_
 
 He thinks to himself. He has to pass the hall and the corridor, to get to the water purifier in the kitchen.
 
-_“It’s nothing dude… just all in your head…. should have taken the tablets.."_
+_“It’s nothing dude… just all in your head…"_
 
-He hasn’t missed the tablets after coming to Goa. But tonight after coming back from beach, he must have forgotten to take the medication.
+He hasn’t missed the meds in a long time. But after coming back from beach tonight, he must have forgotten to take the medication.
 
 He finally decides to take the tablet with the tap water from the vasin.
 
@@ -68,7 +68,7 @@ He is starting to sweat again. He gets up and turns both the fans on and quickly
 
 The sound of the violin in the song is making him agitated.
 
-_“What the fuck is this song!”_
+_“What the fuck is that song!”_
 
 He looks at the screen and it shows the name of one of his favourite violin songs. But right now it feels like the sound of a cat dying to him. He is starting to sweat more. 
 
