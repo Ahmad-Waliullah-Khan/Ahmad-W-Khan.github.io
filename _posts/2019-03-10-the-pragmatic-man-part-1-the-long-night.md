@@ -8,9 +8,8 @@ categories: [Life]
 tags: [short story, the pragmatic man, thriller, series, fiction]
 icon: icon-html
 ---
- ###### *Reading time : **5 minutes, 3 seconds. ***
-<!-- todo : make image responsive without a jelyll plugin  -->
-<!-- ![alt text](/static/assets/img/blog/imposter/imposter_syndrome_boy.jpg "Imposter Syndrome Banner") -->
+###### *Reading time : **5 minutes, 3 seconds. ***
+
 
 Jabbar wakes up gasping and screaming something in Arabic. He looks around, the bed to his right is empty and quite messy. It’s Raju’s bed. Raju is in Delhi for the weekend. The bed to the left is also empty but less messy than Raju’s. That’s where Shashank sleeps. But he also went home for the weekend. The two fans over his head are spinning at the highest speed, yet Jabbar is sweating like a pig.
 
