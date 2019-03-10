@@ -13,7 +13,7 @@
   href: /life/
 
 - name: Stories
-  href: /story/
+  href: /stories/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
