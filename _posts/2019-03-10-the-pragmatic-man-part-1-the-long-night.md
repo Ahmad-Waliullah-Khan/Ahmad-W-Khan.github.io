@@ -12,19 +12,19 @@ icon: icon-html
 
 Jabbar wakes up gasping and screaming something in Arabic. He looks around, the bed to his right is empty and quite messy. It’s Raju’s bed. Raju is in Delhi for the weekend. The bed to the left is also empty but less messy than Raju’s. That’s where Shashank sleeps. But he also went home for the weekend. The two fans over his head are spinning at the highest speed, yet Jabbar is sweating like a pig.
 
-It is too hot in the room, which is quite unusual for Jabbar since he is from Shillong and it is usually cold there during March. But weather of Goa is the last thing he wants to complain about right now. That’s not the stuff that occupies a lot of his thoughts. The lights are on. Jabbar can’t remember leaving the lights on. He actually can’t even remember when he fell asleep. He tries to look for his phone by tracing his tangled earphones around his neck and finally finds the phone under his back. The phone’s lock screen shows it’s 3.14 AM, Saturday, 9th March. He unlocks the screen and the audiobook _“The Courage to Be Disliked” by Ichiro Kishimi_ is playing. 
+It is too hot in the room, which is quite unusual for Jabbar since he is from Shillong and it is usually cold there during March. But weather of Goa is the last thing he wants to complain about right now. That’s not the stuff that occupies a lot of his thoughts. The lights are on. Jabbar can’t remember leaving the lights on. He actually can’t even remember when he fell asleep. He tries to look for his phone by tracing his tangled earphones around his neck and finally finds the phone under his back. The phone’s lock screen shows it’s 3:14 AM, Saturday, 9th March. He unlocks the screen and the audiobook _“The Courage to Be Disliked” by Ichiro Kishimi_ is playing. 
 
 _“Fuck...“_
 
 Jabbar cusses in frustration. He missed the chapter, again.
 
-He gets up and turns of the lights and drinks water from the bottle by the bedside and goes back to bed. If it was few months earlier, he would have left the lights on and written down the nightmare in his journal. But at this point of time, he doesn’t even care about these daily nightmares anymore. He doesn’t even bother trying to remember what was it that he was yelling in his sleep or what is it that the nightmare was about. He gets nightmares like these every night after the incident. So, these seem to him like merely some scenes from a cheap sci-fi movie.
+He gets up and turns off the lights and drinks water from the bottle by the bedside and goes back to bed. If it was few months earlier, he would have left the lights on and written down the nightmare in his journal. But at this point of time, he doesn’t even care about these daily nightmares anymore. He doesn’t even bother trying to remember what was it that he was yelling in his sleep or what is it that the nightmare was about. He gets nightmares like these every night after the incident. So, these seem to him like merely some scenes from a cheap sci-fi movie.
 
 _“Go back to sleep dude… it was just a nightmare.”_
 
 He tells himself. His mind is racing. Should he bring these nightmares up in his session with Dr. Cordoza in the morning. 
 
-_“Nah dude.. That’s silly...these don’t mean anything.”_
+_“Nah dude... That’s silly...these don’t mean anything.”_
 
 He tells himself while laughing out loud. He gets up from the bed and turns the light back on. He opens the door expecting to find Kumaran and Vishal in the hall playing video game. But the hall is dark. No one is there. Lights are turned off and only the sound of the fans and Vishal’s snoring can be heard. But he could have sworn he heard Kumaran and Vishal talking about something in the hall. 
 
@@ -46,7 +46,7 @@ _“Fuck, Fuck, Fuck...”_
 
 He takes out the Amisulpride tablets from the drawer. His hands are shaking. He reaches for the bottle but knocks the bottle over spilling the remaining water to the floor.
 
-_“Motherfuck.."_
+_“Motherfuck..."_
 
 He cusses in anger. He forgot to take the medication tonight. 
 
