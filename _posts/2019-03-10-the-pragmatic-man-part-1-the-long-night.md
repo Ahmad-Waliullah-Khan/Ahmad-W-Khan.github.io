@@ -4,12 +4,11 @@ title:  "The Pragmatic Man : The long night."
 date:   2019-03-10
 desc: "A new fictional story series by me."
 keywords: "the pragmatic man, short story, mental health, mental disorder, psychology, horror, super power, fiction, schizophrenia, story, Ahmad W Khan, Ahmad Waliullah Khan, Krazy4Sunshin3"
-categories: [Life]
+categories: [Stories]
 tags: [short story, the pragmatic man, thriller, series, fiction]
 icon: icon-html
 ---
-###### *Reading time : **5 minutes, 3 seconds. ***
-
+###### *Reading time : **5 minutes, 3 seconds.***
 
 Jabbar wakes up gasping and screaming something in Arabic. He looks around, the bed to his right is empty and quite messy. It’s Raju’s bed. Raju is in Delhi for the weekend. The bed to the left is also empty but less messy than Raju’s. That’s where Shashank sleeps. But he also went home for the weekend. The two fans over his head are spinning at the highest speed, yet Jabbar is sweating like a pig.
 
