@@ -16,5 +16,5 @@ I am not persuading you to jump off a cliff. No, what I am saying is we get so c
 
 So, let’s just say fuck it to every obstacle and live instead of just existing. We have very limited time at our hands. We cannot give it away to everyone. Be selfish for once and make your story a good one. Live, acquire knowledge so that we can take something with us when we die. And I am sure all of you have wonderful tales to tell. And I can’t wait to read all about it. 
 
-Please let me know in the comments below if any of you were able to relate to it or not. 
+So, here's a little thought experiment for you : If you had one year to live, how would you live it ? what would you do differently? What bucket list items you would wanna tick off? Please let me know in the comments below.
 
