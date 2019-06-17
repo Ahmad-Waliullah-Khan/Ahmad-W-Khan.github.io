@@ -16,5 +16,6 @@ I am not persuading you to jump off a cliff. No, what I am saying is we get so c
 
 So, let’s just say fuck it to every obstacle and live, instead of just existing. We have very limited time in our hands. We cannot give it away to everyone. Be selfish for once and make your story a good one. And I am sure all of you have wonderful tales to tell. And I can’t wait to read all about it. Make death your closest companion for it is only through the ability to contemplate and comprehend your own mortality will you truly be free. Never wait till you are in your deathbed to regret what you could have done. How you could have lived. Live right here, and right now. Seize your fucking moment. You have got one shot at this, make it count. 
 
-So, here's a little thought experiment for you : If you had one year to live, how would you live it ? what would you do differently? What bucket list items you would wanna tick off? Please let me know in the comments below.
+So, here's a little thought experiment for you : If you had one year to live, how would you live it ? what would you do differently? What bucket list items you would wanna tick off? 
 
+Please let me knowin the comments below if you liked it or not. Also, please let me know what kinds of post you would like to see me write.
