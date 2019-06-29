@@ -3,16 +3,16 @@
   first_name:
   desc: My Online CV
   website: https://AhmadWKhan.com/cv
-  email: krazy4sunshin3@gmail.com
+  email: 
 
 - last_name: LinkedIn
   first_name: 
   desc: https://www.linkedin.com/in/crazy4sunshine/
   website: https://www.linkedin.com/in/crazy4sunshine/
-  email: krazy4sunshin3@gmail.com
+  email: 
 
-- last_name: YouTube
-  first_name: 
-  desc: https://www.youtube.com/user/crazy4sunshine786
-  website: https://www.youtube.com/user/crazy4sunshine786
-  email: krazy4sunshin3@gmail.com
+- last_name: Download CV (PDF)
+  first_name:
+  desc: My CV
+  website: https://www.dropbox.com/s/trp0shaip4t1qec/Ahmad%20W%20Khan%20%28CV%29.pdf?dl=0
+  email: 
