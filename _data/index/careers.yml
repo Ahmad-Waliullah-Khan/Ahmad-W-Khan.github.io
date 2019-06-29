@@ -8,7 +8,7 @@
     detail: Senior Software Developer, working in defense project from Govt.
     i18n: company_a_desc
   date:
-    detail: July 2019
+    detail: July 2019 - Present
     i18n: company_a_date
   job:
     detail: Software Developer
@@ -23,7 +23,7 @@
     detail: Software Developer, working in an international Banking Software's back end REST team, working with PHP custom MVC framework, in an Agile team.
     i18n: company_a_desc
   date:
-    detail: Jan 2019
+    detail: Jan 2019 - June 2019
     i18n: company_a_date
   job:
     detail: Software Developer
@@ -40,7 +40,7 @@
     detail: May 2017 - Oct 2018
     i18n: company_a_date
   job:
-    detail: Software Developer
+    detail: Full-Stack Developer
     i18n: company_a_job
   icon: fa-plus-square
 
