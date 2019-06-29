@@ -2,7 +2,7 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: SourceDOTCom , Guwahati
+    detail: SourceDOTCom Pvt. Ltd. , Guwahati
     i18n: company_a
   desc:
     detail: Senior Software Developer, working in defense project from Govt.
