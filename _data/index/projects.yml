@@ -1,6 +1,13 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Android app 
+  i18n: cpython
+  gh_user: krazy4sunshin3
+  repo: android_app-quote_of_the_day
+  img: /static/assets/img/landing/android_app_1.png
+  desc: An android app that shows famous quotes each day.
+
 - name: Django based Inventory App
   i18n: cpython
   gh_user: krazy4sunshin3
