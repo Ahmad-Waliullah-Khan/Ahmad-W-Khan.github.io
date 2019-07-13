@@ -1,6 +1,13 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Express.js REST API 
+  i18n: cpython
+  gh_user: krazy4sunshin3
+  repo: expressjs_restful_api
+  img: /static/assets/img/landing/express_js_api.png
+  desc: A simple REST api using node.js and express.js
+
 - name: Android app 
   i18n: cpython
   gh_user: krazy4sunshin3
