@@ -21,11 +21,18 @@ const RUNTIME = 'runtime';
 const PRECACHE_URLS = [
   'index.html',
   './', // Alias for index.html
-  '/css',
-  '/js',
-  '/fonts',
-  '/img',
-  '/vendor'
+  '/_data',
+  '/_includes',
+  '/_layouts',
+  '/_posts',
+  '/_sass',
+  '/blog',
+  '/build',
+  '/static',
+  '/_config.yml',
+  '/404.html',
+  '/CNAME',
+  '/search.json'
 ];
 
 // The install handler takes care of precaching the resources we always need.
@@ -73,5 +80,18 @@ self.addEventListener('fetch', event => {
         });
       })
     );
+  }
+});
+
+self.addEventListener('notificationclick', function(e) {
+  var notification = e.notification;
+  var primaryKey = notification.data.primaryKey;
+  var action = e.action;
+
+  if (action === 'close') {
+    notification.close();
+  } else {
+    clients.openWindow('http://AhmadWKhan.com/qod');
+    notification.close();
   }
 });

@@ -1,23 +1,23 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Oli
+title: Ahmad W Khan
 description: Ahmad W Khan's Site
 keywords: Oli,Ahmad W Khan, Krazy4Sunshin3, Crazy4Sunshine, oli, Ahmad Waliullah Khan
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://krazy4sunshin3.github.io/Jalpc  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://krazy4sunshin3.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Oli  # Be used at blog posts' author.
+  name: Ahmad W Khan  # Be used at blog posts' author.
   first_name: Ahmad W  # Be used at index page about me section.
   last_name: Khan # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: Krazy4Sunshin3  # Leave blank if you don't have now
   linkedin_id: crazy4sunshine # Leave blank if you don't have now
-  facebook_username: crazy4sunshine  # Leave blank if you don't have now
+  facebook_username:   # Leave blank if you don't have now
   twitter_username: crazy4sunshine  # Leave blank if you don't have now
   email:   # Leave blank if you don't have now
   cv: https://www.dropbox.com/s/trp0shaip4t1qec/Ahmad%20W%20Khan%20%28CV%29.pdf?dl=0  # An online CV can be printed as PDF, leave blank if you don't have now
