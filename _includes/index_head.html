@@ -17,14 +17,6 @@
   <link rel="manifest" href="manifest.json"/>  
 
   <!-- Main scripts -->
-  <script src="{{ "/static/assets/app-20180125.min.js" | prepend: site.baseurl }}"></script>
-  {% if site.data.index.projects %}
-  <script async defer src="{{ "/static/js/github_api.min.js" | prepend: site.baseurl }}"></script>
-  {% endif %}
-  {% if site.data.index.language %}
-  <script src="{{"/static/assets/i18-20180125.min.js"| prepend: site.baseurl }}"></script>
-  {% endif %}
-
   <script>
      if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('service-worker.js');
@@ -37,6 +29,15 @@ document.querySelector('#show').addEventListener('click', () => {
   document.querySelector('#container').appendChild(imgElement);
 });
   </script>
+  <script src="{{ "/static/assets/app-20180125.min.js" | prepend: site.baseurl }}"></script>
+  {% if site.data.index.projects %}
+  <script async defer src="{{ "/static/js/github_api.min.js" | prepend: site.baseurl }}"></script>
+  {% endif %}
+  {% if site.data.index.language %}
+  <script src="{{"/static/assets/i18-20180125.min.js"| prepend: site.baseurl }}"></script>
+  {% endif %}
+
+  
 
   <!-- Google AdSense -->
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
