@@ -1,14 +1,10 @@
-# Jalpc. [![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)](https://github.com/jarrekk/Jalpc)
+# WiseKracker. 
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
-[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
+<https://Ahmad-Waliullah-Khan.github.io/>
 
-<https://jarrekk.github.io/Jalpc/>
+<http://wisekracker.com>  -- Personal website
 
-<http://www.jarrekk.com>  -- Personal website
-
-![Blog](https://github.com/jarrekk/Jalpc/raw/master/readme_files/Jalpc.png)
+![Blog](http://wisekracker.com/blog)
 
 - [3 steps to setup this theme at your website!](#3-steps-to-setup-this-theme-at-your-website)
 - [Features](#features)
@@ -182,9 +178,6 @@ There may be merge conflicts, so be sure to fix the files that git lists if they
 - [x] Non-github projects also have links.
 - [ ] Add some custom color themes for selection(Nav bar, background, words, dominant hue).
 
-# Donate Jalpc
-If this project let you enjoy your blog time, you can give me a cup of coffee :)
-
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/jarrekk)
 
 # Wiki
@@ -194,7 +187,4 @@ If this project let you enjoy your blog time, you can give me a cup of coffee :)
 * [Change Log](https://github.com/jarrekk/Jalpc/wiki/Change-Log)
 * [Contributors](https://github.com/jarrekk/Jalpc/wiki/Contributors)
 * [Thanks to the following](https://github.com/jarrekk/Jalpc/wiki/Thanks-to-the-following)
-
-# Ad
-[Jalpc-A](https://github.com/Jack614/Jalpc-A): another Jekyll theme written by [AngularJS](https://angularjs.org/).
 

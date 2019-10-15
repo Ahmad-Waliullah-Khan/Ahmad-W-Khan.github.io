@@ -1,22 +1,22 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Ahmad W Khan
+title: The WiseKracker
 description: Ahmad W Khan's Site
-keywords: Oli,Ahmad W Khan, Krazy4Sunshin3, Crazy4Sunshine, oli, Ahmad Waliullah Khan
+keywords: Oli, Ahmad W Khan, Krazy4Sunshin3, Crazy4Sunshine, oli, Ahmad Waliullah Khan, WiseKracker, The WiseKracker, Wisecracker, The Wisecracker, wisecrackers
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://krazy4sunshin3.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://Ahmad-Waliullah-Khan.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Ahmad W Khan  # Be used at blog posts' author.
-  first_name: Ahmad W  # Be used at index page about me section.
-  last_name: Khan # Be used at index page about me section.
+  name: Ahmad  # Be used at blog posts' author.
+  first_name: WiseKracker  # Be used at index page about me section.
+  last_name:  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: Krazy4Sunshin3  # Leave blank if you don't have now
-  linkedin_id: crazy4sunshine # Leave blank if you don't have now
+  github_username: Ahmad-Waliullah-Khan  # Leave blank if you don't have now
+  linkedin_id: ahmadwkhan # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
   twitter_username: crazy4sunshine  # Leave blank if you don't have now
   email:   # Leave blank if you don't have now
